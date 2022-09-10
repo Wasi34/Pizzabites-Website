@@ -1,5 +1,5 @@
 # Pizzabites-Website
-A 3rd year 1st semester web development project based on html, php, bootstrap and css.
+It's a 3rd year 1st semester web development project based on html, php, bootstrap, javascript and css.
 It’s a website where customers will be able to order their favourite pizzas online. An
 Admin can control this website, take the orders from customers and modify the
 category of the product.
