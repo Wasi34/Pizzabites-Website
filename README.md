@@ -20,7 +20,7 @@ Customer’s Side:
 ● Order history
 ● User review
 
-Required technogies to run this Project:
+Required technologies to run this Project:
 1.Notepad++ or Visual Studio Code
 2.XAMPP
 
