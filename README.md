@@ -4,7 +4,7 @@ It’s a website where customers will be able to order their favourite pizzas on
 Admin can control this website, take the orders from customers and modify the
 categories of the product.
 
-Features:
+# Features
 Admin’s Side:
 ● Login
 ● Managing the contents: Add/Delete/Update food category
@@ -20,11 +20,11 @@ Customer’s Side:
 ● Order history
 ● User review
 
-Required technologies to run this Project:
+# Required Technologies 
 1.Notepad++ or Visual Studio Code
 2.XAMPP
 
-Steps of how to run this project:-
+# How to Install & Use
 Step 1: Download the zip file.
 Step 2: Copy this project to "C:\xampp\htdocs\Codes" folder
 Step 3: Open xampp control panel and start Apache and MySQL
