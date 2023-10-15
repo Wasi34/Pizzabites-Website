@@ -26,6 +26,6 @@ Customer’s Side:<br/>
 Step 1: Download the zip file.<br/>
 Step 2: Copy this project to the "C:\xampp\htdocs\Codes" folder.<br/>
 Step 3: Open the XAMPP control panel and start Apache and MySQL.<br/>
-Step 4: Create a database named "pizzabites" in localhost phpMyAdmin and import the database given in the db.zip file.<br/>
+Step 4: Create a database named "pizzabites" in localhost phpMyAdmin and import the database given in the "db.zip" file.<br/>
 Step 5: Copy this link to your browser and open - "http://localhost/Codes/Pizzabites/".<br/> 
 Step 6: Enjoy the project.
